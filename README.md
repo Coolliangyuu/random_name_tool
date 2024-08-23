@@ -4,14 +4,17 @@
 
 本点名器经过大量测试，功能也都是老师或同学提出后所设计。应该没什么问题了。
 
+软件下载：
+https://www.123pan.com/s/Cehhjv-dSRi
+
 1.名字目录：根目录/data/name.txt
 本使用帮助文件位于根目录/readme.txt
 
 一行代表一条数据，如文件【不存在或文件为空】可能会导致程序闪退！
 请勿修改文件名字！请勿【随意移动或修改】data文件夹以外的其他文件！
-如果有文件丢失造成的无法启动，请访问项目
-https://github.com/Coolliangyuu/random_name_tool/Release/1.3
-并下载相关版本的文件
+如果有文件丢失造成的无法启动，请访问网盘下载文件：https://www.123pan.com/s/Cehhjv-dSRi
+
+项目地址：https://github.com/Coolliangyuu/random_name_tool/
 
 2.此程序需要环境包.NET 4或以上的版本
 如缺少此环境请访问：https://dotnet.microsoft.com/download/dotnet/3.1/
