@@ -1,0 +1,61 @@
+C:\Users\hexia\source\repos\random_name\bin\Debug\random_name.exe
+C:\Users\hexia\source\repos\random_name\bin\Debug\random_name.pdb
+C:\Users\hexia\source\repos\random_name\obj\Debug\random_name.csproj.AssemblyReference.cache
+C:\Users\hexia\source\repos\random_name\obj\Debug\random_name.Form1.resources
+C:\Users\hexia\source\repos\random_name\obj\Debug\random_name.Properties.Resources.resources
+C:\Users\hexia\source\repos\random_name\obj\Debug\random_name.csproj.GenerateResource.cache
+C:\Users\hexia\source\repos\random_name\obj\Debug\random_name.csproj.CoreCompileInputs.cache
+C:\Users\hexia\source\repos\random_name\obj\Debug\random_name.exe
+C:\Users\hexia\source\repos\random_name\obj\Debug\random_name.pdb
+E:\visual stuio\repo\Radom_name\obj\Debug\random_name.csproj.AssemblyReference.cache
+E:\visual stuio\repo\Radom_name\obj\Debug\random_name.Form1.resources
+E:\visual stuio\repo\Radom_name\obj\Debug\random_name.Properties.Resources.resources
+E:\visual stuio\repo\Radom_name\obj\Debug\random_name.csproj.GenerateResource.cache
+E:\visual stuio\repo\Radom_name\obj\Debug\random_name.csproj.CoreCompileInputs.cache
+E:\visual stuio\repo\Radom_name\obj\Debug\random_name.exe
+E:\visual stuio\repo\Radom_name\obj\Debug\random_name.pdb
+E:\visual stuio\repo\Radom_name\bin\Debug\random_name.exe
+E:\visual stuio\repo\Radom_name\bin\Debug\random_name.pdb
+E:\visual stuio\repo\Radom_name\obj\Debug\random_name.Form2.resources
+D:\清凉的雨点\winapp\Radom_name-1.2\bin\Debug\random_name.exe
+D:\清凉的雨点\winapp\Radom_name-1.2\bin\Debug\random_name.pdb
+D:\清凉的雨点\winapp\Radom_name-1.2\obj\Debug\random_name.csproj.AssemblyReference.cache
+D:\清凉的雨点\winapp\Radom_name-1.2\obj\Debug\random_name.Form1.resources
+D:\清凉的雨点\winapp\Radom_name-1.2\obj\Debug\random_name.Form2.resources
+D:\清凉的雨点\winapp\Radom_name-1.2\obj\Debug\random_name.Properties.Resources.resources
+D:\清凉的雨点\winapp\Radom_name-1.2\obj\Debug\random_name.csproj.GenerateResource.cache
+D:\清凉的雨点\winapp\Radom_name-1.2\obj\Debug\random_name.csproj.CoreCompileInputs.cache
+D:\清凉的雨点\winapp\Radom_name-1.2\obj\Debug\random_name.exe
+D:\清凉的雨点\winapp\Radom_name-1.2\obj\Debug\random_name.pdb
+D:\清凉的雨点\winapp\Radom_name-1.2\obj\Debug\Interop.SpeechLib.dll
+D:\清凉的雨点\winapp\Radom_name-1.2\obj\Debug\random_name.csproj.ResolveComReference.cache
+D:\清凉的雨点\winapp\Radom_name-1.2\bin\Debug\random_name.exe.config
+D:\清凉的雨点\winapp\Radom_name-1.2\obj\Debug\random_name.csproj.SuggestedBindingRedirects.cache
+D:\清凉的雨点\winapp\Radom_name-1.2.2\obj\Debug\random_name.csproj.AssemblyReference.cache
+D:\清凉的雨点\winapp\Radom_name-1.2.2\obj\Debug\Interop.SpeechLib.dll
+D:\清凉的雨点\winapp\Radom_name-1.2.2\obj\Debug\random_name.csproj.ResolveComReference.cache
+D:\清凉的雨点\winapp\Radom_name-1.2.2\obj\Debug\random_name.Form1.resources
+D:\清凉的雨点\winapp\Radom_name-1.2.2\obj\Debug\random_name.Form2.resources
+D:\清凉的雨点\winapp\Radom_name-1.2.2\obj\Debug\random_name.csproj.GenerateResource.cache
+D:\清凉的雨点\winapp\Radom_name-1.2.2\obj\Debug\random_name.csproj.CoreCompileInputs.cache
+D:\清凉的雨点\winapp\Radom_name-1.2.2\bin\Debug\高三五班点名器v1.3.exe.config
+D:\清凉的雨点\winapp\Radom_name-1.2.2\bin\Debug\高三五班点名器v1.3.exe
+D:\清凉的雨点\winapp\Radom_name-1.2.2\bin\Debug\高三五班点名器v1.3.pdb
+D:\清凉的雨点\winapp\Radom_name-1.2.2\obj\Debug\高三五班点名器.Properties.Resources.resources
+D:\清凉的雨点\winapp\Radom_name-1.2.2\obj\Debug\高三五班点名器v1.3.exe
+D:\清凉的雨点\winapp\Radom_name-1.2.2\obj\Debug\高三五班点名器v1.3.pdb
+D:\清凉的雨点\winapp\Radom_name-1.2.2\obj\Debug\高三五班点名器.LoadingForm.resources
+D:\清凉的雨点\winapp\Radom_name-1.2.2 - publish\bin\Debug\点名器v1.3.exe.config
+D:\清凉的雨点\winapp\Radom_name-1.2.2 - publish\bin\Debug\点名器v1.3.exe
+D:\清凉的雨点\winapp\Radom_name-1.2.2 - publish\bin\Debug\点名器v1.3.pdb
+D:\清凉的雨点\winapp\Radom_name-1.2.2 - publish\obj\Debug\random_name.csproj.AssemblyReference.cache
+D:\清凉的雨点\winapp\Radom_name-1.2.2 - publish\obj\Debug\Interop.SpeechLib.dll
+D:\清凉的雨点\winapp\Radom_name-1.2.2 - publish\obj\Debug\random_name.csproj.ResolveComReference.cache
+D:\清凉的雨点\winapp\Radom_name-1.2.2 - publish\obj\Debug\random_name.Form1.resources
+D:\清凉的雨点\winapp\Radom_name-1.2.2 - publish\obj\Debug\random_name.Form2.resources
+D:\清凉的雨点\winapp\Radom_name-1.2.2 - publish\obj\Debug\高三五班点名器.LoadingForm.resources
+D:\清凉的雨点\winapp\Radom_name-1.2.2 - publish\obj\Debug\点名器.Properties.Resources.resources
+D:\清凉的雨点\winapp\Radom_name-1.2.2 - publish\obj\Debug\random_name.csproj.GenerateResource.cache
+D:\清凉的雨点\winapp\Radom_name-1.2.2 - publish\obj\Debug\random_name.csproj.CoreCompileInputs.cache
+D:\清凉的雨点\winapp\Radom_name-1.2.2 - publish\obj\Debug\点名器v1.3.exe
+D:\清凉的雨点\winapp\Radom_name-1.2.2 - publish\obj\Debug\点名器v1.3.pdb

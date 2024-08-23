@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "random_name", "random_name.csproj", "{9E9196E4-9124-49AE-A419-0C4497F659A8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "RandomName_Setup", "..\RandomName_Setup\RandomName_Setup.vdproj", "{01CDC843-0A2A-42FF-B22D-9BFDEC4BF214}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "监听按键", "..\监听按键\监听按键.csproj", "{8C6E6463-453D-4DB9-91BA-8B819430D66C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E9196E4-9124-49AE-A419-0C4497F659A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E9196E4-9124-49AE-A419-0C4497F659A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E9196E4-9124-49AE-A419-0C4497F659A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E9196E4-9124-49AE-A419-0C4497F659A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01CDC843-0A2A-42FF-B22D-9BFDEC4BF214}.Debug|Any CPU.ActiveCfg = Debug
+		{01CDC843-0A2A-42FF-B22D-9BFDEC4BF214}.Release|Any CPU.ActiveCfg = Release
+		{8C6E6463-453D-4DB9-91BA-8B819430D66C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6E6463-453D-4DB9-91BA-8B819430D66C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6E6463-453D-4DB9-91BA-8B819430D66C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6E6463-453D-4DB9-91BA-8B819430D66C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86E6B442-65BE-4652-8E02-856F2036B393}
+	EndGlobalSection
+EndGlobal
