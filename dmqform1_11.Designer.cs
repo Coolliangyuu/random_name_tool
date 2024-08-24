@@ -114,11 +114,11 @@ namespace random_name
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(102, 375);
+            this.label3.Location = new System.Drawing.Point(102, 387);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(323, 24);
+            this.label3.Size = new System.Drawing.Size(323, 12);
             this.label3.TabIndex = 8;
-            this.label3.Text = "ps.已修复“重置名单”的幽默BUG\r\n小提示：可用翻页笔“↓”键控制点名器（PPT模式不支持）\r\n";
+            this.label3.Text = "小提示：可用翻页笔“↓”键控制点名器（PPT模式不支持）\r\n";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
