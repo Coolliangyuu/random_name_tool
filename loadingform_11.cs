@@ -11,9 +11,9 @@ using System.Windows.Forms;
 
 namespace 点名器
 {
-    public partial class LoadingForm : Form
+    public partial class loadingform_11 : Form
     {
-        public LoadingForm()
+        public loadingform_11()
         {
             InitializeComponent();
         }
@@ -26,7 +26,7 @@ namespace 点名器
         private async void LoadingForm_Load(object sender, EventArgs e)
         {
             await Task.Delay(10);
-            new Form1().Show();
+            new dmqform1_11().Show();
             this.Hide();
         }
 

@@ -1,7 +1,7 @@
 ﻿
 namespace random_name
 {
-    partial class Form1
+    partial class dmqform1_11
     {
         /// <summary>
         /// 必需的设计器变量。
@@ -30,7 +30,7 @@ namespace random_name
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(dmqform1_11));
             this.label1 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
@@ -114,11 +114,11 @@ namespace random_name
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(105, 375);
+            this.label3.Location = new System.Drawing.Point(102, 375);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(323, 24);
             this.label3.TabIndex = 8;
-            this.label3.Text = "ps.已修复“重置名单”的幽默BUG\r\n小提示：可用翻页笔“↓”键控制点名器（PPT模式不支持）";
+            this.label3.Text = "ps.已修复“重置名单”的幽默BUG\r\n小提示：可用翻页笔“↓”键控制点名器（PPT模式不支持）\r\n";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
@@ -128,7 +128,7 @@ namespace random_name
             this.checkBox3.Checked = true;
             this.checkBox3.CheckState = System.Windows.Forms.CheckState.Checked;
             this.checkBox3.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.checkBox3.Location = new System.Drawing.Point(454, 375);
+            this.checkBox3.Location = new System.Drawing.Point(453, 352);
             this.checkBox3.Name = "checkBox3";
             this.checkBox3.Size = new System.Drawing.Size(90, 20);
             this.checkBox3.TabIndex = 10;
@@ -164,12 +164,12 @@ namespace random_name
             this.button4.Location = new System.Drawing.Point(467, 376);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(75, 23);
-            this.button4.TabIndex = 14;
+            this.button4.TabIndex = 13;
             this.button4.Text = "关于点名器";
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
-            // Form1
+            // dmqform1_11
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -189,9 +189,9 @@ namespace random_name
             this.MaximizeBox = false;
             this.MaximumSize = new System.Drawing.Size(560, 440);
             this.MinimumSize = new System.Drawing.Size(560, 440);
-            this.Name = "Form1";
+            this.Name = "dmqform1_11";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "点名器v1.4（不可重复模式）";
+            this.Text = "点名器v1.4（可重复模式）";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.Load += new System.EventHandler(this.Form1_Load);
             this.VisibleChanged += new System.EventHandler(this.Form1_VisibleChanged);

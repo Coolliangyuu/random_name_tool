@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
-using 高三五班点名器;
+using 点名器;
 
 namespace random_name
 {
@@ -15,7 +15,7 @@ namespace random_name
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new LoadingForm());
+            Application.Run(new ChooseMode());
         }
     }
 }

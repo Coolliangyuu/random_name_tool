@@ -1,25 +1,23 @@
-﻿using System;
-using System.IO;
+﻿using SpeechLib;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
-using System.Text;
-using System.Windows.Forms;
-using SpeechLib;
-using System.Threading;
-using System.Speech.Synthesis;
-using System.Speech.Recognition;
-using static System.Net.Mime.MediaTypeNames;
+using System.IO;
 using System.Linq;
-using 点名器;
+using System.Speech.Recognition;
+using System.Speech.Synthesis;
+using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
+using System.Windows.Forms;
+using 点名器;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace random_name
 {
-
-
-    public partial class Form1 : Form
+    public partial class dmqform1_11 : Form
     {
 
         string label1_text, button1_before, button1_ontick, button1_after;
@@ -29,7 +27,7 @@ namespace random_name
         public static List<string> name_list = new List<string>();
         public static string name_sc, uiset_sc;
         private object Label1;
-        private SpeechSynthesizer speech;
+        private SpeechSynthesizer speech; 
         string dyz1 = "我是多音字1";//多音字解决方案
         string dyz2 = "我是多音字2";
         public static List<string> ConfusionArray(List<string> name_list)
@@ -37,8 +35,8 @@ namespace random_name
             Random random = new Random();
             return name_list.OrderBy(x => random.Next()).ToList();
         }
-        
-        public Form1()
+
+        public dmqform1_11()
         {
             InitializeComponent();
         }
@@ -67,7 +65,7 @@ namespace random_name
 
         private void button2_Click(object sender, EventArgs e)
         {
-            var form2 = new Form2();
+            var form2 = new dmqform2_11();
             form2.VisibleChanged += (_, _) => Show();
             form2.Show();
             this.Hide();
@@ -145,14 +143,14 @@ namespace random_name
             StreamReader name_read = new StreamReader(name_stream, UnicodeEncoding.GetEncoding("utf-8"));
             StreamReader uiset_read = new StreamReader(uiset_stream, UnicodeEncoding.GetEncoding("utf-8"));
 
-            
+
             while ((name_sc = name_read.ReadLine()) != null)
             {
                 name_list.Add(name_sc);
             }
             int count = name_list.Count;
             label4.Text = "已加载" + count + "个姓名";
-            
+
             int i = 0;
             while ((uiset_sc = uiset_read.ReadLine()) != null)
             {
@@ -174,8 +172,7 @@ namespace random_name
 
         private void Form1_VisibleChanged(object sender, EventArgs e)
         {
-            int count = name_list.Count;
-            label4.Text = "还剩余" + count + "个姓名";
+
         }
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
@@ -237,9 +234,11 @@ namespace random_name
                     timer1.Stop();
                     button1.Enabled = false;
                     button1.Hide();
-                    await Task.Delay(50);
+
                     bool qzx_result = dyz1.Equals(label1.Text);
                     bool tzl_result = dyz2.Equals(label1.Text);
+                    await Task.Delay(50);
+
                     if (qzx_result)
                     {
                         //接受文本框的文字
@@ -261,7 +260,7 @@ namespace random_name
                         //语速
                         voice1.Rate = 1;
                         //朗读内容
-                        voice1.Speak("我是多音字2的正确读音");//同上;
+                        voice1.Speak("我是多音字2的正确读音");//同上
                     }
                     else
                     {
@@ -274,9 +273,9 @@ namespace random_name
                         //朗读内容
                         voice.Speak(text);
                     }
-                    
+
                     button1.Show();
-                    name_list.Remove(text);
+                    
                     int count = name_list.Count;
                     label4.Text = "还剩余" + count + "个姓名";
                     button1.Text = button1_after;
@@ -290,12 +289,12 @@ namespace random_name
                 else if (checkBox1.Checked is false)
                 {
                     timer1.Stop();
-                    name_list.Remove(text);
+                    
                     int count = name_list.Count;
                     label4.Text = "还剩余" + count + "个姓名";
                     button1.Text = button1_after;
                 }
-                
+
 
                 if (name_list.Count == 0)
                 {
@@ -310,7 +309,7 @@ namespace random_name
                     int count = name_list.Count;
                     label4.Text = "还剩余" + count + "个姓名";
                 }
-                
+
             }
         }
 

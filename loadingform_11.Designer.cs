@@ -1,6 +1,6 @@
 ﻿namespace 点名器
 {
-    partial class LoadingForm
+    partial class loadingform_11
     {
         /// <summary>
         /// Required designer variable.
@@ -57,7 +57,7 @@
             this.label2.Text = "加载名单...";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // LoadingForm
+            // loadingform_11
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -66,7 +66,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.SizableToolWindow;
-            this.Name = "LoadingForm";
+            this.Name = "loadingform_11";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "点名器";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.LoadingForm_FormClosing);

@@ -35,17 +35,4 @@ D:\清凉的雨点\winapp\Radom_name-1.2.2\obj\Release\高三五班点名器.Loa
 D:\清凉的雨点\winapp\Radom_name-1.2.2\obj\Release\高三五班点名器.Properties.Resources.resources
 D:\清凉的雨点\winapp\Radom_name-1.2.2\obj\Release\高三五班点名器v1.3.exe
 D:\清凉的雨点\winapp\Radom_name-1.2.2\obj\Release\高三五班点名器v1.3.pdb
-D:\清凉的雨点\winapp\Radom_name-1.2.2 - publish\obj\Release\random_name.csproj.AssemblyReference.cache
-D:\清凉的雨点\winapp\Radom_name-1.2.2 - publish\obj\Release\Interop.SpeechLib.dll
-D:\清凉的雨点\winapp\Radom_name-1.2.2 - publish\obj\Release\random_name.csproj.ResolveComReference.cache
-D:\清凉的雨点\winapp\Radom_name-1.2.2 - publish\obj\Release\random_name.Form1.resources
-D:\清凉的雨点\winapp\Radom_name-1.2.2 - publish\obj\Release\random_name.Form2.resources
-D:\清凉的雨点\winapp\Radom_name-1.2.2 - publish\obj\Release\高三五班点名器.LoadingForm.resources
-D:\清凉的雨点\winapp\Radom_name-1.2.2 - publish\obj\Release\random_name.csproj.GenerateResource.cache
-D:\清凉的雨点\winapp\Radom_name-1.2.2 - publish\obj\Release\random_name.csproj.CoreCompileInputs.cache
-D:\清凉的雨点\winapp\Radom_name-1.2.2 - publish\bin\Release\点名器v1.3.exe.config
-D:\清凉的雨点\winapp\Radom_name-1.2.2 - publish\bin\Release\点名器v1.3.exe
-D:\清凉的雨点\winapp\Radom_name-1.2.2 - publish\bin\Release\点名器v1.3.pdb
-D:\清凉的雨点\winapp\Radom_name-1.2.2 - publish\obj\Release\点名器.Properties.Resources.resources
-D:\清凉的雨点\winapp\Radom_name-1.2.2 - publish\obj\Release\点名器v1.3.exe
-D:\清凉的雨点\winapp\Radom_name-1.2.2 - publish\obj\Release\点名器v1.3.pdb
+D:\清凉的雨点\winapp\Radom_name-1.2.2\obj\Release\random_name.dmqform11.resources
